@@ -51,5 +51,5 @@ Berikut adalah alur logika utama dari implementasi kode aplikasi:
 
 **4. Logika Tampilan & Easter Egg (`tampil_data.dart`)**
 * Halaman ini menerima data melalui *constructor* dengan parameter `required`.
-* **Logika Kondisional (If-Else):** Di awal metode `build`, terdapat pengecekan logika. Jika `nama` mengandung kata "arga", `nim` adalah "1980", dan `tahun` adalah "2003", maka widget akan me-return tampilan khusus (*Easter Egg*) dengan latar hitam dan gambar `asli.jpg`.
+* **Logika Kondisional (If-Else):** Di awal metode `build`, terdapat pengecekan logika. Jika `nama` mengandung kata "jokowi", `nim` adalah "1681", dan `tahun` adalah "1961", maka widget akan me-return tampilan khusus (*Easter Egg*) dengan latar hitam dan gambar `asli.jpg`.
 * **Desain Sertifikat:** Jika kondisi di atas tidak terpenuhi, aplikasi merender tampilan standar berupa desain ijazah menggunakan teknik *nesting* `Container` dengan manipulasi `border` dan `boxShadow` untuk efek bingkai ganda.
