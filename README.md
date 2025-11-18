@@ -4,18 +4,18 @@
 
 ### Login
 <p align="center">
-  <img src="login.png" alt="Halaman Login" width="100"/> 
+  <img src="login.png" alt="Halaman Login" width="200"/> 
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="salah.png" alt="Pop up Error" width="100"/>
+  <img src="salah.png" alt="Pop up Error" width="200"/>
 </p>
 
 ### Beranda & Hasil
 <p align="center">
-  <img src="form.png" alt="Halaman Input Data" width="100"/> 
+  <img src="form.png" alt="Halaman Input Data" width="200"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="sidebar.png" alt="Halaman Sidebar" width="100"/> 
+  <img src="sidebar.png" alt="Halaman Sidebar" width="200"/> 
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="tampil.png" alt="Halaman Sertifikat" width="100"/>
+  <img src="tampil.png" alt="Halaman Sertifikat" width="200"/>
 </p>
 
 ### Easter Egg
@@ -25,7 +25,7 @@ Tampilan rahasia banget ini hanya akan muncul jika input memenuhi kriteria berik
 * **Tahun Lahir:** 1961
 
 <p align="center">
-  <img src="asli.png" alt="Halaman Easter Egg" width="100"/> 
+  <img src="asli.png" alt="Halaman Easter Egg" width="200"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
