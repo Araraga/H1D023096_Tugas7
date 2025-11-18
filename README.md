@@ -4,26 +4,28 @@
 
 ### Login
 <p align="center">
-  <img src="login.png" alt="Halaman Login" width="300"/> 
+  <img src="login.png" alt="Halaman Login" width="100"/> 
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="salah.png" alt="Pop up Error" width="300"/>
+  <img src="salah.png" alt="Pop up Error" width="100"/>
 </p>
 
 ### Beranda & Hasil
 <p align="center">
-  <img src="form.png" alt="Halaman Input Data" width="300"/> 
+  <img src="form.png" alt="Halaman Input Data" width="100"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="sidebar.png" alt="Halaman Sidebar" width="100"/> 
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="tampil.png" alt="Halaman Sertifikat" width="300"/>
+  <img src="tampil.png" alt="Halaman Sertifikat" width="100"/>
 </p>
 
 ### Easter Egg
-**Catatan:** Tampilan rahasia banget ini hanya akan muncul jika input memenuhi kriteria berikut:
+Tampilan rahasia banget ini hanya akan muncul jika input memenuhi kriteria berikut:
 * **Nama:** jokowi (tidak sensitif huruf besar/kecil).
 * **NIM:** 1681
 * **Tahun Lahir:** 1961
 
 <p align="center">
-  <img src="asli.png" alt="Halaman Easter Egg" width="300"/> 
+  <img src="asli.png" alt="Halaman Easter Egg" width="100"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
